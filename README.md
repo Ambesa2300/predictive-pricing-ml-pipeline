@@ -1,29 +1,68 @@
-# Final Exam Project  
-**KAN-CCMVI2085U – Machine Learning for Predictive Analytics in Business**  
+# Predictive Pricing with Machine Learning
 
-## Project Overview  
-This repository contains my **final exam submission** for the course **Machine Learning for Predictive Analytics in Business** at Copenhagen Business School.
+## Project Overview
+This project demonstrates how machine learning can be applied to support data-driven pricing decisions using real-world marketplace data.
 
-**Exam conditions**: This project was completed as a **closed-book, individual written exam without help or external aids**, in accordance with CBS academic integrity policies.
+The objective was to analyze a large dataset of used car listings and develop predictive models capable of estimating vehicle prices while translating technical results into meaningful business insights. The project represents a complete end-to-end machine learning workflow, from raw data preparation to model evaluation and business interpretation.
 
-The objective was to analyze a large dataset of used car listings and develop predictive models to estimate car prices. The project reflects a complete **machine learning pipeline**, including:
+Academic project completed individually under closed-book exam conditions at Copenhagen Business School.
+
+---
+
+## Business Context
+Pricing uncertainty can lead to inconsistent valuations and lost revenue opportunities in marketplaces and resale businesses. This project explores how predictive analytics can support more consistent and scalable pricing decisions by identifying the variables that most strongly influence market value.
+
+---
+
+## Machine Learning Pipeline
+The project includes the full analytical workflow:
 
 - Data loading and cleaning  
 - Feature engineering and transformation  
 - Exploratory data analysis and visualization  
-- Model development, comparison, and evaluation  
-- Interpretation of results and business insight
+- Model development and comparison  
+- Model evaluation and performance assessment  
+- Interpretation of results and business insights  
 
-## Tools & Technologies  
-- **Language**: Python  
-- **Libraries**: `pandas`, `NumPy`, `matplotlib`, `Seaborn`, `scikit-learn`  
-- **Models used**: Ridge Regression, Decision Tree Regressor, Random Forest Regressor  
+---
 
-## Outcome  
-This project demonstrates my ability to apply the theoretical and practical tools learned throughout the course to a real-world business challenge. I evaluated multiple regression models, selected the best-performing approach, interpreted key features, and translated findings into actionable insights for pricing strategy.
+## Tools & Technologies
+**Language**
+- Python
 
-Through this assignment, I strengthened my skills in **data wrangling**, **visualization**, **model evaluation**, and the application of **machine learning to support data-driven business decisions**. It reflects my progression from foundational Python and statistics to applied predictive analytics.
+**Libraries**
+- pandas
+- NumPy
+- matplotlib
+- seaborn
+- scikit-learn
 
+**Models**
+- Ridge Regression
+- Decision Tree Regressor
+- Random Forest Regressor
 
+---
 
-*Submitted as part of the 2025 ISUP exam period – Closed-book individual exam (no help or external aids).*
+## Results & Outcome
+Multiple regression models were evaluated to identify the most accurate pricing approach. The selected model demonstrated strong predictive performance while revealing key factors influencing vehicle valuation.
+
+Beyond model accuracy, the project focused on translating analytical outputs into actionable insights relevant for commercial decision-making and pricing strategy.
+
+---
+
+## Key Learnings
+Through this project, I strengthened practical skills in:
+
+- Data wrangling and preprocessing
+- Exploratory data analysis
+- Model evaluation and comparison
+- Feature interpretation
+- Applying machine learning to business problems
+
+The work reflects progression from foundational Python and statistics toward applied predictive analytics within a business context.
+
+---
+
+## About
+Academic project completed as part of the course *Machine Learning for Predictive Analytics in Business* at Copenhagen Business School (2025).
